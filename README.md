@@ -5,7 +5,7 @@
    3. Transfer 1 Sol from keypair to phantom account 
 ## Tech
    - 1.solana web3.js library
-   - 2. javascript/ TypeScript programming
+   - 2.javascript/ TypeScript programming
    - 3.visual studio code
    - 4.phantom wallet 
    
